@@ -45,7 +45,7 @@ Data Engineer with 5+ years of experience in building and maintaining scalable d
 **Programming Languages:** Python, SQL, Golang  
 **Data Engineering:** Data Modeling, ETL, Data Warehousing, Airflow, DQC  
 **Big Data Tools:** Apache Spark, Hadoop, Hive  
-**Others:** Git, Docker, Linux, REST API, (add AWS/GCP if applicable)  
+**Others:** Git, Docker, Linux, REST API
 
 ---
 
