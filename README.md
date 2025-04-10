@@ -1,56 +1,68 @@
+---
+geometry: margin=1in
+fontsize: 10pt
+mainfont: "Arial"
+output: pdf_document
+---
+
 # Leo Chen
 
-📞 +886 981006887  
-📧 event10342012@gmail.com 
+**Phone:** +886 981006887  
+**Email:** event10342012@gmail.com
 
 ---
 
-## 🧑‍💼 Profile
+## Profile
 
-Data Engineer with 5+ years of experience in building and maintaining scalable data platforms and data warehousing systems from the ground up. Skilled in data modeling, ETL pipeline development, and big data processing. Passionate about leveraging data to drive business decisions and improve infrastructure efficiency.
-
----
-
-## 💼 Experience
-
-### **Sea Group** — *Senior Data Engineer*  
-📅 Apr 2022 – Present  
-- Partnered with financial stakeholders to design and develop data models for reporting and reconciliation.  
-- Developed performant data pipelines with SLA and Data Quality Checks (DQC).  
-- Enhanced existing pipelines to improve runtime efficiency and resource utilization.  
-- Contributed to internal framework development to boost team productivity in the development lifecycle.
+Data Engineer with over 5 years of experience in designing and maintaining scalable data infrastructure and data warehousing systems from the ground up. Proven expertise in building robust ETL pipelines, implementing data quality frameworks, and improving pipeline performance. Passionate about solving data challenges and adopting new technologies to drive business insights.
 
 ---
 
-### **E.SUN Securities** — *Data Engineer*  
-📅 Jan 2019 – Apr 2022  
-- Built the company's data warehouse system from scratch.  
-- Designed and developed data models and pipelines to support reporting, analytics, operations, and data science.  
-- Developed RESTful APIs to deliver data services to other systems.  
-- Integrated Apache Airflow to establish a reusable and scalable data pipeline framework.  
-- Applied deep learning techniques to identify and target potential customers.
+## Experience
+
+### Sea Group — *Senior Data Engineer*
+**Apr 2022 – Present**
+
+- Collaborated with financial stakeholders to design and implement data models supporting reporting and reconciliation processes.
+- Built scalable and performant data pipelines using PySpark, with strict adherence to SLAs and data quality checks (DQC).
+- Refactored and optimized existing pipelines to reduce resource consumption and improve execution time.
+- Contributed to the development of internal frameworks and tools that improved engineering efficiency across the team.
+
+**Technologies:** Apache Spark, HDFS, Presto, Python, SQL
 
 ---
 
-## 🎓 Education
+### E.SUN Securities — *Data Engineer*
+**Jan 2019 – Apr 2022**
+
+- Architected and launched the company's data warehouse platform from scratch to support analytics and business reporting.
+- Designed and developed ETL pipelines to integrate data across business, operational, and analytical systems.
+- Developed RESTful APIs to provide data services to internal platforms.
+- Designed and implemented a reusable Airflow-based orchestration framework to standardize pipeline development.
+- Applied deep learning techniques to improve customer segmentation and targeting strategies.
+
+**Technologies:** PrestoSQL, Python, Apache Airflow, FastAPI
+
+---
+
+## Education
 
 **National Taipei University of Business**  
-📘 B.B.A. in Finance  
-📅 2014 – 2018
+*Bachelor of Business Administration (B.B.A.) in Finance*  
+**2014 – 2018**
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-**Programming Languages:** Python, SQL, Golang  
-**Data Engineering:** Data Modeling, ETL, Data Warehousing, Airflow, DQC  
-**Big Data Tools:** Apache Spark, Hadoop, Hive  
-**Others:** Git, Docker, Linux, REST API
+- **Programming Languages:** Python, SQL, Golang
+- **Data Engineering:** ETL, Data Modeling, Data Warehousing, Airflow, DQC
+- **Big Data & Analytics:** Apache Spark, Hadoop, Hive, Presto
+- **Tools & Platforms:** Git, Docker, Linux, FastAPI
 
 ---
 
+## Languages
 
-## 🗣️ Languages
-
-- Mandarin: Native  
-- English: Medium
+- **Mandarin:** Native
+- **English:** Medium
