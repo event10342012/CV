@@ -28,7 +28,7 @@ Data Engineer with over 5 years of experience in designing and maintaining scala
 - Refactored and optimized existing pipelines to reduce resource consumption and improve execution time.
 - Contributed to the development of internal frameworks and tools that improved engineering efficiency across the team.
 
-**Technologies:** Apache Spark, HDFS, Presto, Python, SQL
+**Tech:** Apache Spark, HDFS, Presto, Python, SQL
 
 ---
 
@@ -41,7 +41,7 @@ Data Engineer with over 5 years of experience in designing and maintaining scala
 - Designed and implemented a reusable Airflow-based orchestration framework to standardize pipeline development.
 - Applied deep learning techniques to improve customer segmentation and targeting strategies.
 
-**Technologies:** PrestoSQL, Python, Apache Airflow, FastAPI
+**Tech:** PrestoSQL, Python, Apache Airflow, FastAPI
 
 ---
 
