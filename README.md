@@ -14,7 +14,7 @@ output: pdf_document
 
 ## Profile
 
-Data Engineer with over 5 years of experience in designing and maintaining scalable data infrastructure and data warehousing systems from the ground up. Proven expertise in building robust ETL pipelines with integrated data quality check, and improving pipeline performance.  Passionate about solving complex data challenges and continuously learning and adopting new technologies.
+Data Engineer with over 6 years of experience in designing and maintaining scalable data infrastructure and data warehousing systems from the ground up. Proven expertise in building robust ETL pipelines with integrated data quality check, and improving pipeline performance.  Passionate about solving complex data challenges and continuously learning and adopting new technologies.
 
 ---
 
